@@ -64,7 +64,7 @@ public class TestAop {
         }
     }
 
-    public static final String url = "http://uat-api.jdwl.com/edi/jdsale/unicomHuasheng/transportGoods";
+    public static final String url = "";
     public static void pullGoodsByDays(String[] str, int start, int end){
         for (int i=start; i<end; i++ ){
             try {
